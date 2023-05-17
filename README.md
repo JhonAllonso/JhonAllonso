@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Meu nome é Jonathan
+#### Sou Desenvolvedor Iniciante
+![Sou Desenvolvedor Iniciante](https://raw.githubusercontent.com/JhonAllonso/JhonAllonso/main/Desenvolvedor%20iniciante.png)
 
-<!--
-**JhonAllonso/JhonAllonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Desenvolvedor Iniciante 
 
-Here are some ideas to get you started:
+ 📚 Estou cursando Graduação em Análise e Densenvolvimento de Sistemas na Universidade Iguaçu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🧠 Atualmente estudando Python no Curso Em Video
+  
+ 👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, busco aprender sempre, trabalho em equipe.
+
+Skills: C  /  JS  / PYTHON 
+
+- 🔭 I’m currently working on this page. 
